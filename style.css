@@ -1,0 +1,40 @@
+body{
+    background-color: chartreuse;
+    
+}
+
+#d1{
+    background-color: white;
+    width: 85ex;
+    height: 70ex;
+    margin-left: 15em;
+    margin-top: 4em;
+}
+
+input[type="text"]{
+    background-color: rgb(212, 212, 212);
+    width: 20em;
+    height: 3em;
+    margin-left: 13em;
+    margin-top: 10em ;
+}
+
+input[type="password"]{
+    background-color:  rgb(212, 212, 212);
+    width: 20em;
+    height: 3em;
+    margin-left: 13em;
+    margin-top: 5em;
+
+}
+button{
+    background-color: chartreuse;
+    width: 20em;
+    height: 3em;
+    margin-left: 13em;
+}
+
+h5{
+    margin-left: 15em;
+    
+}
